@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MyPlaygroundTest-1.playground">
+   </FileRef>
+   <FileRef
+      location = "group:MyPlaygroundTest-2.playground">
+   </FileRef>
+   <FileRef
+      location = "group:MyPlaygroundTest-4.playground">
+   </FileRef>
+</Workspace>
